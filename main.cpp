@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     ASList<CountryData> list;
-    ifstream file("education-economy-data.csv");
+    ifstream file("education-economy-data modified.csv");
 
     if (!file.is_open()) {
         cerr << "Error: Could not open CSV file.\n";
