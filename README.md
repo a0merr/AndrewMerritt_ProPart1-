@@ -1,11 +1,11 @@
-# ProPart1 – Alphabetically Sorted Country Data  
-**Author:** Andrew Merritt  
+﻿# ProPart1 â€“ Alphabetically Sorted Country Data  
+**Author:** Andrew Merrittw Merritt  
 **Language:** C++  
-**GitHub Repository:** [AndrewMerritt_ProPart1-](https://github.com/a0merr/AndrewMerritt_ProPart1-)  
+**GitHub Repository:** [Andrew MerrittwMerritt_ProPart1-](https://github.com/a0merr/Andrew MerrittwMerritt_ProPart1-)  
 
 ---
 
-## 📌 Project Overview
+## ðŸ“Œ Project Overview
 This project implements a **sorted array list (ASList)** in C++ to store and display **country data**.  
 
 The program reads a CSV file (`education-economy-data modified.csv`) containing:  
@@ -23,19 +23,19 @@ The goals of the project were to:
 
 ---
 
-## 🛠️ Files Included
-- **ASList.h / ASList.cpp** – Template-based sorted array list  
-  - `insert()` – Adds an item in alphabetical order  
-  - `print()` – Displays the list contents  
-  - `isFull()` / `isEmpty()` – Check list status  
-- **CountryData.h** – Struct for storing **country information**  
+## ðŸ› ï¸ Files Included
+- **ASList.h / ASList.cpp** â€“ Template-based sorted array list  
+  - `insert()` â€“ Adds an item in alphabetical order  
+  - `print()` â€“ Displays the list contents  
+  - `isFull()` / `isEmpty()` â€“ Check list status  
+- **CountryData.h** â€“ Struct for storing **country information**  
   - Overloads `<` operator for alphabetical sorting  
-- **main.cpp** – Reads the CSV file, inserts data into the list, and prints it  
+- **main.cpp** â€“ Reads the CSV file, inserts data into the list, and prints it  
 
 ---
 
-## ▶️ How to Compile and Run
+## â–¶ï¸ How to Compile and Run
 1. Make sure you have a **C++ compiler** installed (e.g., g++, Visual Studio, clang)  
 2. Clone the repository:
    ```bash
-   git clone https://github.com/a0merr/AndrewMerritt_ProPart1-.git
+   git clone https://github.com/a0merr/Andrew MerrittwMerritt_ProPart1-.git
